@@ -23,7 +23,7 @@ This automation system simplifies the process of retrieving lecture information 
    git clone https://github.com/maleeshapramud2005/javainstitute-portal-automation.git
 2. cd java-institute-portal-automation
 3. npm install
-4. npm start
+4. node start
 
 ## Setting Up Login Credentials
 
