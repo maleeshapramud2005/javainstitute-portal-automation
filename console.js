@@ -17,8 +17,8 @@ process.env.DEBUG = '';
   console.log("");
 
   // Enter login credentials
-  await page.type('input[name="username"]', '200507301249');
-  await page.type('input[name="password"]', 'maleesha2005');
+  await page.type('input[name="username"]', 'Enter here your username(or nic you normally use to login)');
+  await page.type('input[name="password"]', 'Enter here your password');
   await page.click('button[type="submit"]');
   await page.waitForNavigation();
 
