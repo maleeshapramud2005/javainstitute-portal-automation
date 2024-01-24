@@ -21,3 +21,6 @@ This automation system simplifies the process of retrieving lecture information 
 1. Clone the repository.
    ```bash
    git clone https://github.com/maleeshapramud2005/javainstitute-portal-automation.git
+2. cd java-institute-portal-automation
+3. npm install
+4. npm start
